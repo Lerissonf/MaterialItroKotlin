@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name_PT_BR">Intodução de app</string>
+
+    <string name="slide_1_title_PT_BR">Bem vindo!</string>
+    <string name="slide_1_descreption_PT_BR">
+        Sua plataforma de localização em ambientes fechados.
+        \n
+        Isso através do mapeamento de ambiente, por meio de sinais de rede
+        \n
+        sem fio, técnicas de inteligência artificial e processamento embarcado.
+    </string>
+
+
+    <string name="slide_2_title_PT_BR">Localização do Usuário </string>
+    <string name="slide_2_descreption_PT_BR">
+    Permita sua localização para que o guiemos até seu destino.
+    </string>
+    <plurals name="mi_label_grant_permission">
+        <item quantity="one">Liberar Permissão</item>
+        <item quantity="other">Liberar Permissões</item>
+    </plurals>
+    <string name="label_grant_permissions">Please grant the permissions before proceeding.</string>
+
+    <string name="please_permisssions2">Para poder prosseguir é importante liberar as permissões de localização do Usuário.</string>
+
+    <string name="slide_3_title_PT_BR">Armazenamento</string>
+    <string name="slide_3_descreption_PT_BR">
+    Permita que seja lida e/ou escrita as informações, para o correto funcionamento da aplicação.
+    </string>
+    <string name="please_permisssions3_PT_BR">Para poder prosseguir é importante liberar as permissões.</string>
+
+    <string name="please_contract_PT_BR">Para poder prosseguir é importante aceitar os Termos de Uso.</string>
+
+    <string name="texto">A prática cotidiana prova que o aumento do diálogo entre os diferentes setores produtivos nos obriga à análise das\n
+        condições financeiras e administrativas exigidas. Por outro lado, a complexidade dos estudos efetuados estimula a padronização do fluxo de informações.\n
+        Por conseguinte, o acompanhamento das preferências de consumo aponta para a melhoria do levantamento das variáveis envolvidas.\n
+        O empenho em analisar a crescente influência da mídia representa uma abertura para a melhoria do orçamento setorial.\n
+
+        No entanto, não podemos esquecer que a competitividade nas transações comerciais desafia a capacidade de equalização dos modos de operação convencionais. \n
+        Acima de tudo, é fundamental ressaltar que a execução dos pontos do programa talvez venha a ressaltar a relatividade das formas de ação.\n
+        É claro que a constante divulgação das informações pode nos levar a considerar a reestruturação das diretrizes de desenvolvimento para o futuro.
+
+          Nunca é demais lembrar o peso e o significado destes problemas, uma vez que o julgamento imparcial das eventualidades oferece uma interessante\n
+        oportunidade para verificação das condições inegavelmente apropriadas. Todas estas questões, devidamente ponderadas, levantam dúvidas sobre se o consenso sobre a necessidade\n
+        de qualificação promove a alavancagem dos índices pretendidos. Podemos já vislumbrar o modo pelo qual o entendimento das metas propostas facilita a criação das diversas correntes de pensamento.\n
+        Não obstante, o desafiador cenário globalizado agrega valor ao estabelecimento do sistema de formação de quadros que corresponde às necessidades.\n
+        O cuidado em identificar pontos críticos na estrutura atual da organização auxilia a preparação e a composição dos relacionamentos verticais entre as hierarquias.
+
+          Ainda assim, existem dúvidas a respeito de como a expansão dos mercados mundiais ainda não demonstrou convincentemente que vai participar na mudança de todos os recursos funcionais envolvidos.\n
+        O que temos que ter sempre em mente é que a consulta aos diversos militantes assume importantes posições no estabelecimento das regras de conduta normativas. Desta maneira, o fenômeno da Internet maximiza as possibilidades por conta do retorno esperado a longo prazo.\n
+        No mundo atual, a mobilidade dos capitais internacionais garante a contribuição de um grupo importante na determinação dos paradigmas corporativos. </string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="logo">ATTICUS</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
