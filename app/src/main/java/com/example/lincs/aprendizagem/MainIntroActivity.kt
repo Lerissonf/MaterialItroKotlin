@@ -50,13 +50,18 @@ class MainIntroActivity : IntroActivity() {
         }else{
             null
         }
-
-        val slide1: Slide? = FragmentSlide.Builder()
-                .background(R.color.color_material_metaphor)
-                .backgroundDark(R.color.color_dark_material_metaphor)
-                .fragment(ContractFragment.newInstance())
-                .build()
-                .also{addSlide(it)}
+        var slide1:Slide? = if (!PreferenceManager.getDefaultSharedPreferences(this)
+                        .getBoolean("CheckBoxTerm", false)){
+            FragmentSlide.Builder()
+                    .background(R.color.color_material_metaphor)
+                    .backgroundDark(R.color.color_dark_material_metaphor)
+                    .fragment(ContractFragment.newInstance())
+                    .build()
+                    .also{addSlide(it)}
+        }
+        else{
+            null
+        }
 
 
 

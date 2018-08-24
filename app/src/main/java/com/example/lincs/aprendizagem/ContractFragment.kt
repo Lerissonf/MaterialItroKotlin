@@ -1,6 +1,8 @@
 package com.example.lincs.aprendizagem
 
+import android.content.Context
 import android.os.Bundle
+import android.preference.PreferenceManager
 import android.support.v4.app.Fragment
 import android.util.Log
 import android.view.LayoutInflater
@@ -20,6 +22,7 @@ import kotlinx.android.synthetic.main.fragment_contract.*
  *
  */
 class ContractFragment : SlideFragment() {
+
     // TODO: Rename and change types of parameters
     //    private var param2: String? = null
     //    private var listener: OnFragmentInteractionListener? = null
@@ -40,6 +43,9 @@ class ContractFragment : SlideFragment() {
 
     override fun canGoForward(): Boolean {
         var termo = checkBox.isChecked
+        if (termo) PreferenceManager.getDefaultSharedPreferences(activity).edit()
+                .putBoolean("CheckBoxTerm", true)
+                .apply()
         Log.i("checked",termo.toString())
         return termo
     }

@@ -31,25 +31,38 @@
     <string name="please_permisssions3_PT_BR">Para poder prosseguir é importante liberar as permissões.</string>
 
     <string name="please_contract_PT_BR">Para poder prosseguir é importante aceitar os Termos de Uso.</string>
-
-    <string name="texto">A prática cotidiana prova que o aumento do diálogo entre os diferentes setores produtivos nos obriga à análise das\n
-        condições financeiras e administrativas exigidas. Por outro lado, a complexidade dos estudos efetuados estimula a padronização do fluxo de informações.\n
-        Por conseguinte, o acompanhamento das preferências de consumo aponta para a melhoria do levantamento das variáveis envolvidas.\n
-        O empenho em analisar a crescente influência da mídia representa uma abertura para a melhoria do orçamento setorial.\n
-
-        No entanto, não podemos esquecer que a competitividade nas transações comerciais desafia a capacidade de equalização dos modos de operação convencionais. \n
-        Acima de tudo, é fundamental ressaltar que a execução dos pontos do programa talvez venha a ressaltar a relatividade das formas de ação.\n
-        É claro que a constante divulgação das informações pode nos levar a considerar a reestruturação das diretrizes de desenvolvimento para o futuro.
-
-          Nunca é demais lembrar o peso e o significado destes problemas, uma vez que o julgamento imparcial das eventualidades oferece uma interessante\n
-        oportunidade para verificação das condições inegavelmente apropriadas. Todas estas questões, devidamente ponderadas, levantam dúvidas sobre se o consenso sobre a necessidade\n
-        de qualificação promove a alavancagem dos índices pretendidos. Podemos já vislumbrar o modo pelo qual o entendimento das metas propostas facilita a criação das diversas correntes de pensamento.\n
-        Não obstante, o desafiador cenário globalizado agrega valor ao estabelecimento do sistema de formação de quadros que corresponde às necessidades.\n
-        O cuidado em identificar pontos críticos na estrutura atual da organização auxilia a preparação e a composição dos relacionamentos verticais entre as hierarquias.
-
-          Ainda assim, existem dúvidas a respeito de como a expansão dos mercados mundiais ainda não demonstrou convincentemente que vai participar na mudança de todos os recursos funcionais envolvidos.\n
-        O que temos que ter sempre em mente é que a consulta aos diversos militantes assume importantes posições no estabelecimento das regras de conduta normativas. Desta maneira, o fenômeno da Internet maximiza as possibilidades por conta do retorno esperado a longo prazo.\n
-        No mundo atual, a mobilidade dos capitais internacionais garante a contribuição de um grupo importante na determinação dos paradigmas corporativos. </string>
+    <string name="TermoDeUso"><b>TERMO DE USO</b></string>
+    <string name="texto">1. <b>Isenção de responsabilidade.</b>
+        EXCETO CONFORME EXPRESSAMENTE DISPOSTO NESTES TERMOS, A ATTICUS ISENTA-SE DE QUAISQUER GARANTIAS TÁCITAS, INCLUINDO-SE,
+        SEM LIMITAÇÃO, POR NÃO VIOLAÇÃO, QUALIDADE SATISFATÓRIA, MERCANTILIDADE E ADEQUAÇÃO PARA QUALQUER FINALIDADE.
+        ATÉ O MAIS AMPLO LIMITE PREVISTO EM LEI, O SERVIÇO É FORNECIDO "SEM GARANTIAS" E POR SUA OPÇÃO E RISCO, NEM A ATTICUS
+        CONCEDE QUALQUER GARANTIA EM RELAÇÃO AO SERVIÇO OU AOS RESULTADOS DO SERVIÇO.\n
+        2. <b>Disposições Gerais.</b>\n
+        2.1 Lei de Regência.\n
+        a) Este contrato será regido pela lei brasileira.\n
+        b) Todas as demandas relacionadas a este contrato ou a qualquer produto ou serviço Google (incluindo-se qualquer controvérsia sobre interpretação ou cumprimento do contrato) ("Controvérsia") será dirimida de maneira final por arbitragem de acordo com a regras de arbitragem do centro de arbitragem e mediação da Câmara de Comércio Brasil-Canadá ("Regras").\n
+        c) O tribunal arbitral será formado por três árbitros a serem escolhidos de acordo com as Regras. A arbitragem será conduzida em português, na cidade de São Paulo, Brasil, local onde a sentença arbitral será prolatada./n
+        d) O tribunal arbitral não poderá decidir por equidade.\n
+        e) Sujeito aos requisitos de confidencialidade da alínea (g), as partes poderão requerer medidas destinadas a proteger seus direitos ou propriedade ao juízo da comarca de São Paulo ou qualquer outro juízo competente; o requerimento da medida não será considerado uma violação desta cláusula de lei de regência e arbitragem nem uma renúncia a ela e não atingirá os poderes reservados ao árbitro, incluindo-se o poder de rever a decisão judicial.
+        f) A sentença arbitral será definitiva e vinculante às partes, podendo ser executada perante qualquer juízo competente, incluindo-se qualquer juízo com jurisdição sobre quaisquer das partes ou quaisquer de seus bens.
+        g) Qualquer processo de arbitragem conduzido de acordo com esta cláusula será considerado Informação confidencial, incluindo-se (i) sua existência, (ii) quaisquer informações divulgadas no curso do processo de arbitragem, e (iii) quaisquer comunicações verbais ou documentos relativos ao referido processo. As partes poderão divulgar as informações descritas nesta alínea (g) para um juízo competente conforme sejam necessárias para requerer qualquer medida nos termos da alínea (e) ou para executar qualquer sentença arbitral. Porém, as partes devem obrigatoriamente solicitar que esses processos judiciais corram em segredo de justiça.
+        h) A sentença arbitral determinará que a parte vencida reembolse as despesas, os honorários do árbitro, dos peritos escolhidos pelo tribunal arbitral, e os custos administrativos do centro de arbitragem pagos previamente pela outra parte.
+        i) Cada parte arcará com as despesas e honorários de seus próprios advogados e assistentes técnicos, independentemente da sentença final do tribunal arbitral sobre a controvérsia.
+        2.2 Sem Limitação de Responsabilidade. Nada nestes Termos de Anúncios limitará o direito de cada uma das partes de pleitear provimentos jurídicos justos.
+        2.3 Integralidade do Contrato. Estes Termos de Anúncios constituem o contrato integral entre as partes relativamente ao seu assunto, e prevalecem sobre eventuais contratos anteriores ou contemporâneos sobre esse assunto. Outros termos não serão aplicáveis ao Serviço (exceto os termos de um Pedido de Inserção válido). Se houver qualquer conflito entre estes Termos de Anúncios e os termos de qualquer outro contrato aplicável ao Serviço, tais como um Pedido de Inserção ("Outros Termos"), estes Termos de Anúncios prevalecerão a não ser que os Outros Termos sejam assinados por um representante autorizado da Google e declaram expressamente que têm a intenção de prevalecer sobre os Termos de Anúncios.
+        2.4. Divulgação. Nenhuma das partes poderá fazer qualquer declaração pública sobre a relação contemplada nestes Termos de Anúncios.
+        2.5. Avisos. Todos os avisos de rescisão ou descumprimento devem obrigatoriamente ser feitos por escrito e endereçados ao Departamento Jurídico da outra parte. O endereço de e-mail para avisos enviados para o Departamento Jurídico da Google é legal-notices@google.com. Todos os outros avisos devem ser por escrito e endereçados ao principal contato da outra parte. O aviso será considerado entregue no recebimento, conforme confirmado por recibo manuscrito ou automático ou por registro eletrônico (conforme o caso). Estes requisitos de aviso não são aplicáveis à entrega da citação, que está sujeita à lei aplicável.
+        2.6 Alterações. Exceto por alterações a estes Termos de Anúncios pela Google nos termos da Cláusula 14.1, todos os aditamentos devem obrigatoriamente ser pactuados por ambas as partes e expressamente declarar que estão alterando estes Termos de Anúncios.
+        2.7 Sem Renúncia. Não será considerada uma renúncia por qualquer das partes a eventuais direitos previstos nestes Termos de Anúncios se eles não forem exercidos (ou ocorrer demora em exercê-los).
+        2.8 Cláusulas Independentes. Se qualquer disposição destes Termos de Anúncios for considerada inexigível, as demais disposições permanecerão em pleno vigor.
+        2.9 Cessão. Nenhuma das partes poderá transferir qualquer parte destes Termos sem o consentimento por escrito da outra parte, exceto para uma coligada, mas apenas nos casos em que (I) a cessionária concordar por escrito a estar vinculada pelos Termos, (II) a parte cedente permanecer responsável pelas obrigações previstas nestes Termos se a cessionária descumpri-los, e (III) a parte cedente notificou a outra parte sobre a cessão. Qualquer outra tentativa de transferência ou cessão será nula.
+        2.10 Terceiros Beneficiários. Exceto conforme de outra forma expressamente declarado nos Termos, não há terceiros beneficiários dos Termos.
+        2.11 Sem Representação. Os Termos não criam uma representação, parceria nem uma joint venture entre as partes.
+        2.12. Subsistência. As Cláusulas 2-15 prevalecerão após o vencimento ou rescisão dos Termos.
+        2.13 Força Maior. Exceto em relação às obrigações de pagamento, nenhuma das partes ou suas afiliadas é responsável por cumprimento inadequado até o limite em que seja motivado por uma condição que estava além do controle apropriado da parte.
+        2.14 Idioma. Qualquer tradução do português dos Termos de Anúncios é fornecida a você apenas por conveniência e na hipótese de qualquer conflito entre os Termos de Anúncios traduzidos e os Termos de Anúncios em português, a versão em idioma português dos Termos de Anúncios será aplicável.
+        2.15 Comunicação. Você concorda em receber avisos da Google, incluindo-se aqueles relativos a alterações nos Termos de Anúncios, por e-mail, correspondência regular, ou posts colocados na página do Serviço.
+    </string>
     <string name="title_activity_main">MainActivity</string>
     <string name="logo">ATTICUS</string>
 
