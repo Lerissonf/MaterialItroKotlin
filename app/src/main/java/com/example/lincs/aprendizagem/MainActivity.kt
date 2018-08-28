@@ -50,10 +50,18 @@ class MainActivity : AppCompatActivity() {
         var permissionCheck = ContextCompat.checkSelfPermission(this,
                 Manifest.permission.WRITE_EXTERNAL_STORAGE)
 
-        if (introstart && permissionCheck == RESULT_OK){val intent = Intent(this, MainIntroActivity::class.java)
-            startActivityForResult(intent, REQUEST_CODE_INTRO)
-            Log.i("leri","Deus é tudo")}
+        var contractCheck = PreferenceManager.getDefaultSharedPreferences(this)
+                .getBoolean("CheckBoxTerm", false)
 
+        if ((introstart && permissionCheck == RESULT_OK)&&(!contractCheck)){val intent = Intent(this, MainIntroActivity::class.java)
+            startActivityForResult(intent, REQUEST_CODE_INTRO)
+            Log.i("leri","Deus é tudo1")}
+        else if ((introstart && permissionCheck == RESULT_OK)&&(contractCheck)){val intent = Intent(this, MainIntroActivity::class.java)
+            startActivityForResult(intent, REQUEST_CODE_INTRO)
+            Log.i("leri","Deus é tudo2")}
+        else if ((introstart && permissionCheck != RESULT_OK)&&(!contractCheck)){val intent = Intent(this, MainIntroActivity::class.java)
+            startActivityForResult(intent, REQUEST_CODE_INTRO)
+            Log.i("leri","Deus é tudo3")}
         Log.i("intro",introstart.toString())
         Log.i("Permissão",permissionCheck.toString())
         super.onResume()
