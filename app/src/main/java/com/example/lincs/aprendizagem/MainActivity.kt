@@ -67,20 +67,5 @@ class MainActivity : AppCompatActivity() {
         super.onResume()
 
     }
-//    override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent) {
-//        super.onActivityResult(requestCode, resultCode, data)
-//        if (requestCode == REQUEST_CODE_INTRO) {
-//            if (resultCode == RESULT_OK) {
-//                PreferenceManager.getDefaultSharedPreferences(this).edit()
-//                        .putBoolean(PREF_KEY_FIRST_START, false)
-//                        .apply()
-//            } else {
-//                PreferenceManager.getDefaultSharedPreferences(this).edit()
-//                        .putBoolean(PREF_KEY_FIRST_START, true)
-//                        .apply()
-//                //User cancelled the intro so we'll finish this activity too.
-//                finish()
-//            }
-//        }
-//    }
+
 }
